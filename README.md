@@ -19,8 +19,8 @@ Atualmente, estou envolvido em uma pesquisa que explora a aplicação de Intelig
 
 - **Linguagens de Programação**: C, C++, Python
 - **Plataformas de Hardware**: ESP32, Arduino
-- **Ferramentas de Desenvolvimento**: Visual Studio Code, Git, MATLAB
-- **Inteligência Artificial**: Machine Learning, Deep Learning
+- **Ferramentas de Desenvolvimento**: Visual Studio Code, Arduino IDE, Google COLAB
+- **Inteligência Artificial**: Machine Learning, Deep Learning, Redes Neurais
 
 ## Projetos
 
@@ -32,7 +32,6 @@ Breve descrição do projeto. [Link para o projeto]
 
 ## Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- [Email](mailto:seuemail@example.com)
+- [Email](gustavowander08@gmail.com)
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou colaborar em projetos. 🚀
