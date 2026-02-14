@@ -13,7 +13,7 @@
 Participei do projeto Car-Kará Baja, onde adquiri experiência prática em eletrônica e trabalho em equipe. 
 
 ### Iniciação Científica - Laboratório de Automação em Medidas de Petróleo - LAMP
-Atualmente, estou envolvido em uma pesquisa que explora a aplicação de Inteligência Artificial em dispositivos embarcados, como o ESP32. Este trabalho combina minha paixão por eletrônica e IA, permitindo-me desenvolver soluções inovadoras em hardware e software.
+Participei de uma pesquisa que explora a aplicação de Inteligência Artificial em dispositivos embarcados, como o ESP32. Este trabalho combina minha paixão por eletrônica e IA, permitindo-me desenvolver soluções inovadoras em hardware e software.
 
 ## Tecnologias e Ferramentas
 
