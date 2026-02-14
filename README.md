@@ -7,5 +7,3 @@ Este é um projeto de desenvolvimento embarcado baseado na plataforma ESP32, cuj
 ## Contato
 
 - [Email](gustavowander08@gmail.com)
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para entrar em contato ou colaborar em projetos. 🚀
