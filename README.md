@@ -9,6 +9,7 @@ Este é um projeto de desenvolvimento embarcado baseado na plataforma ESP32, cuj
 ### [Ortholeg](https://github.com/Gustavo-Guilherme-Wanderley/Ortholeg)
 **Status**: Em desenvolvimento e em busca de melhorias ⚠️
 
+O projeto OrthoLeg tem a finalidade de criar um dispositivo de auxílio à locomoção para pessoas que necessitam de ajuda quanto a isso. Este repositório contém todo o material necessário para replicar o hardware e o software utilizado no exoesqueleto.
 
 ## Contato
 
